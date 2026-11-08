@@ -1,0 +1,4 @@
+allowBuilds:
+  '@scarf/scarf': set this to true or false
+  '@scarf/scarf@1.4.0': true
+  esbuild: true
